@@ -1,0 +1,27 @@
+<html>
+	<header>
+		<title>
+		TAP/DRAG CLICK
+		</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</header>
+</html>
